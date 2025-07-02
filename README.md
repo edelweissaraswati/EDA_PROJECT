@@ -2,7 +2,7 @@
 **Portfolio Project Exploratory Data Analysis**
 
 EDA or Exploratory Data Analysis is a data analysis approach that focuses on summarizing and visualizing the main characteristics of a dataset.
-This project is a task from Dibimbing.id
+This project is a task from **Dibimbing.id**
 In this project, I'm using dataset from kaggle.com about Student Admission Record by Zeeshan Ahmad. 
 I'm using the dataset from this link : https://www.kaggle.com/datasets/zeeshier/student-admission-records
 
